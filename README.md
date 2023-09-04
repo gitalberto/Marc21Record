@@ -6,8 +6,11 @@ Estrutura de dados em Java para manipulação de arquivos no formato Marc
 Aqui estão exemplos de como usar a estrutura de dados `Marc21Record` para representar e manipular registros MARC21 em Java.
 
 ```java
-// Importar a classe Marc21Record
+
 import java.util.List;
+
+// Importe a classe Marc21Record
+import Marc21Record;
 
 public class Main {
     public static void main(String[] args) {
